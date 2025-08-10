@@ -1,0 +1,5 @@
+[09-Aug-2025 22:02:07 UTC] Attempting to send email to: expenses2@pphotel.co.uk with subject: New Project Created: 2025-08-10
+[09-Aug-2025 22:02:07 UTC] Attempting to send email to: Chathu@pphotel.co.uk with subject: New Project Created: 2025-08-10
+[09-Aug-2025 23:00:10 UTC] PHP Parse error:  syntax error, unexpected token "use" in /home/pphotelc/projects.pphotel.co.uk/config/email.php on line 16
+[09-Aug-2025 23:06:20 UTC] PHP Parse error:  syntax error, unexpected token "use" in /home/pphotelc/projects.pphotel.co.uk/config/email.php on line 63
+[09-Aug-2025 23:16:26 UTC] PHP Parse error:  syntax error, unexpected token "use" in /home/pphotelc/projects.pphotel.co.uk/config/email.php on line 63

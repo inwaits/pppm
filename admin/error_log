@@ -1,0 +1,116 @@
+[09-Aug-2025 13:16:41 UTC] Attempting to send email to: supun80001@gmail.com with subject: Test Email from HousekeepPM
+[09-Aug-2025 13:18:07 UTC] Attempting to send email to: supun80001@gmail.com with subject: Test Email from HousekeepPM
+[09-Aug-2025 13:22:30 UTC] Attempting to send email to: supun80001@gmail.com with subject: Test Email from HousekeepPM
+[09-Aug-2025 13:22:43 UTC] Attempting to send email to: supun80001@gmail.com with subject: Test Email from HousekeepPM
+[09-Aug-2025 13:24:18 UTC] Attempting to send email to: supun80001@gmail.com with subject: Test Email from HousekeepPM
+[09-Aug-2025 13:24:24 UTC] Attempting to send email to: supun80001@gmail.com with subject: Test Email from HousekeepPM
+[09-Aug-2025 13:28:31 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/pphotelc/projects.pphotel.co.uk/config/email.php on line 6
+[09-Aug-2025 13:28:31 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/pphotelc/projects.pphotel.co.uk/config/email.php on line 6
+[09-Aug-2025 13:28:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pphotelc/projects.pphotel.co.uk/config/email.php:6
+Stack trace:
+#0 /home/pphotelc/projects.pphotel.co.uk/includes/functions.php(3): require_once()
+#1 /home/pphotelc/projects.pphotel.co.uk/includes/header.php(3): require_once('/home/pphotelc/...')
+#2 /home/pphotelc/projects.pphotel.co.uk/admin/email-settings.php(3): require_once('/home/pphotelc/...')
+#3 {main}
+  thrown in /home/pphotelc/projects.pphotel.co.uk/config/email.php on line 6
+[09-Aug-2025 13:29:30 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/pphotelc/projects.pphotel.co.uk/config/email.php on line 6
+[09-Aug-2025 13:29:30 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/pphotelc/projects.pphotel.co.uk/config/email.php on line 6
+[09-Aug-2025 13:29:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pphotelc/projects.pphotel.co.uk/config/email.php:6
+Stack trace:
+#0 /home/pphotelc/projects.pphotel.co.uk/includes/functions.php(3): require_once()
+#1 /home/pphotelc/projects.pphotel.co.uk/includes/header.php(3): require_once('/home/pphotelc/...')
+#2 /home/pphotelc/projects.pphotel.co.uk/admin/email-settings.php(3): require_once('/home/pphotelc/...')
+#3 {main}
+  thrown in /home/pphotelc/projects.pphotel.co.uk/config/email.php on line 6
+[09-Aug-2025 13:39:30 UTC] Attempting to send email to: supun80001@gmail.com with subject: Test Email from HousekeepPM
+[09-Aug-2025 13:40:00 UTC] PHP Warning:  require_once(/home/pphotelc/projects.pphotel.co.uk/config/libs/PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pphotelc/projects.pphotel.co.uk/config/email.php on line 3
+[09-Aug-2025 13:40:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pphotelc/projects.pphotel.co.uk/config/libs/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pphotelc/projects.pphotel.co.uk/config/email.php:3
+Stack trace:
+#0 /home/pphotelc/projects.pphotel.co.uk/includes/functions.php(3): require_once()
+#1 /home/pphotelc/projects.pphotel.co.uk/includes/header.php(3): require_once('/home/pphotelc/...')
+#2 /home/pphotelc/projects.pphotel.co.uk/admin/email-settings.php(3): require_once('/home/pphotelc/...')
+#3 {main}
+  thrown in /home/pphotelc/projects.pphotel.co.uk/config/email.php on line 3
+[09-Aug-2025 13:40:05 UTC] PHP Warning:  require_once(/home/pphotelc/projects.pphotel.co.uk/config/libs/PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pphotelc/projects.pphotel.co.uk/config/email.php on line 3
+[09-Aug-2025 13:40:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pphotelc/projects.pphotel.co.uk/config/libs/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pphotelc/projects.pphotel.co.uk/config/email.php:3
+Stack trace:
+#0 /home/pphotelc/projects.pphotel.co.uk/includes/functions.php(3): require_once()
+#1 /home/pphotelc/projects.pphotel.co.uk/includes/header.php(3): require_once('/home/pphotelc/...')
+#2 /home/pphotelc/projects.pphotel.co.uk/admin/email-settings.php(3): require_once('/home/pphotelc/...')
+#3 {main}
+  thrown in /home/pphotelc/projects.pphotel.co.uk/config/email.php on line 3
+[09-Aug-2025 13:40:15 UTC] PHP Warning:  require_once(/home/pphotelc/projects.pphotel.co.uk/config/libs/PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pphotelc/projects.pphotel.co.uk/config/email.php on line 3
+[09-Aug-2025 13:40:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pphotelc/projects.pphotel.co.uk/config/libs/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pphotelc/projects.pphotel.co.uk/config/email.php:3
+Stack trace:
+#0 /home/pphotelc/projects.pphotel.co.uk/includes/functions.php(3): require_once()
+#1 /home/pphotelc/projects.pphotel.co.uk/includes/header.php(3): require_once('/home/pphotelc/...')
+#2 /home/pphotelc/projects.pphotel.co.uk/admin/email-settings.php(3): require_once('/home/pphotelc/...')
+#3 {main}
+  thrown in /home/pphotelc/projects.pphotel.co.uk/config/email.php on line 3
+[09-Aug-2025 13:40:19 UTC] PHPMailer Error: SMTP Error: Could not connect to SMTP host.
+[09-Aug-2025 13:41:01 UTC] Attempting to send email to: supun80001@gmail.com with subject: Test Email from HousekeepPM
+[09-Aug-2025 13:41:09 UTC] Attempting to send email to: supun80001@gmail.com with subject: Test Email from HousekeepPM
+[09-Aug-2025 13:45:59 UTC] PHP Warning:  require_once(/home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/pphotelc/projects.pphotel.co.uk/config/email.php on line 9
+[09-Aug-2025 13:45:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pphotelc/projects.pphotel.co.uk/config/email.php:9
+Stack trace:
+#0 /home/pphotelc/projects.pphotel.co.uk/includes/functions.php(3): require_once()
+#1 /home/pphotelc/projects.pphotel.co.uk/includes/header.php(3): require_once('/home/pphotelc/...')
+#2 /home/pphotelc/projects.pphotel.co.uk/admin/email-settings.php(3): require_once('/home/pphotelc/...')
+#3 {main}
+  thrown in /home/pphotelc/projects.pphotel.co.uk/config/email.php on line 9
+[09-Aug-2025 13:47:04 UTC] PHP Parse error:  syntax error, unexpected token "use" in /home/pphotelc/projects.pphotel.co.uk/config/email.php on line 16
+[09-Aug-2025 13:47:11 UTC] Attempting to send email to: supun80001@gmail.com with subject: Test Email from HousekeepPM
+[09-Aug-2025 23:25:25 UTC] Attempting to send email to: hello@inwaits.com with subject: Test Email from HousekeepPM
+[09-Aug-2025 23:25:25 UTC] SMTP Configuration check - Host: smtp.hostinger.com, Username: noreply@leopardoutfits.com, Password: set
+[09-Aug-2025 23:25:25 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/config/../libs/phpmailer/src/
+[09-Aug-2025 23:25:25 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[09-Aug-2025 23:25:25 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[09-Aug-2025 23:25:25 UTC] PHPMailer not found in any of the checked paths
+[09-Aug-2025 23:25:25 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/config/../libs/phpmailer/src/
+[09-Aug-2025 23:25:25 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[09-Aug-2025 23:25:25 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[09-Aug-2025 23:25:25 UTC] PHPMailer not found in any of the checked paths
+[09-Aug-2025 23:25:25 UTC] Can use SMTP: NO (Config: YES, PHPMailer: NO)
+[09-Aug-2025 23:25:25 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/config/../libs/phpmailer/src/
+[09-Aug-2025 23:25:25 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[09-Aug-2025 23:25:25 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[09-Aug-2025 23:25:25 UTC] PHPMailer not found in any of the checked paths
+[09-Aug-2025 23:25:25 UTC] SMTP configured but PHPMailer not available, using hosting server mail()
+[09-Aug-2025 23:25:25 UTC] Sending email via hosting server mail() function to: hello@inwaits.com
+[09-Aug-2025 23:25:25 UTC] Email sent successfully via hosting server to: hello@inwaits.com
+[09-Aug-2025 23:25:29 UTC] Attempting to send email to: supun80001@gmail.com with subject: Test Email from HousekeepPM
+[09-Aug-2025 23:25:29 UTC] SMTP Configuration check - Host: smtp.hostinger.com, Username: noreply@leopardoutfits.com, Password: set
+[09-Aug-2025 23:25:29 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/config/../libs/phpmailer/src/
+[09-Aug-2025 23:25:29 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[09-Aug-2025 23:25:29 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[09-Aug-2025 23:25:29 UTC] PHPMailer not found in any of the checked paths
+[09-Aug-2025 23:25:29 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/config/../libs/phpmailer/src/
+[09-Aug-2025 23:25:29 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[09-Aug-2025 23:25:29 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[09-Aug-2025 23:25:29 UTC] PHPMailer not found in any of the checked paths
+[09-Aug-2025 23:25:29 UTC] Can use SMTP: NO (Config: YES, PHPMailer: NO)
+[09-Aug-2025 23:25:29 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/config/../libs/phpmailer/src/
+[09-Aug-2025 23:25:29 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[09-Aug-2025 23:25:29 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[09-Aug-2025 23:25:29 UTC] PHPMailer not found in any of the checked paths
+[09-Aug-2025 23:25:29 UTC] SMTP configured but PHPMailer not available, using hosting server mail()
+[09-Aug-2025 23:25:29 UTC] Sending email via hosting server mail() function to: supun80001@gmail.com
+[09-Aug-2025 23:25:29 UTC] Email sent successfully via hosting server to: supun80001@gmail.com
+[09-Aug-2025 23:26:59 UTC] Attempting to send email to: supun80001@gmail.com with subject: Test Email from HousekeepPM
+[09-Aug-2025 23:26:59 UTC] SMTP Configuration check - Host: smtp.hostinger.com, Username: info@leopardoutfits.com, Password: set
+[09-Aug-2025 23:26:59 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/config/../libs/phpmailer/src/
+[09-Aug-2025 23:26:59 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[09-Aug-2025 23:26:59 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[09-Aug-2025 23:26:59 UTC] PHPMailer not found in any of the checked paths
+[09-Aug-2025 23:26:59 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/config/../libs/phpmailer/src/
+[09-Aug-2025 23:26:59 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[09-Aug-2025 23:26:59 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[09-Aug-2025 23:26:59 UTC] PHPMailer not found in any of the checked paths
+[09-Aug-2025 23:26:59 UTC] Can use SMTP: NO (Config: YES, PHPMailer: NO)
+[09-Aug-2025 23:26:59 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/config/../libs/phpmailer/src/
+[09-Aug-2025 23:26:59 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[09-Aug-2025 23:26:59 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[09-Aug-2025 23:26:59 UTC] PHPMailer not found in any of the checked paths
+[09-Aug-2025 23:26:59 UTC] SMTP configured but PHPMailer not available, using hosting server mail()
+[09-Aug-2025 23:26:59 UTC] Sending email via hosting server mail() function to: supun80001@gmail.com
+[09-Aug-2025 23:27:00 UTC] Email sent successfully via hosting server to: supun80001@gmail.com

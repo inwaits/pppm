@@ -1,0 +1,40 @@
+[10-Aug-2025 01:34:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pphotelc/projects.pphotel.co.uk/ajax/update-due-date.php on line 10
+[10-Aug-2025 01:34:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pphotelc/projects.pphotel.co.uk/ajax/update-due-date.php on line 10
+[10-Aug-2025 01:34:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pphotelc/projects.pphotel.co.uk/ajax/update-due-date.php on line 10
+[10-Aug-2025 02:31:40 UTC] Attempting to send email to: expenses@pphotel.co.uk with subject: New Comment Added: Quality Assurance
+[10-Aug-2025 02:31:40 UTC] SMTP Configuration check - Host: smtp.hostinger.com, Username: info@leopardoutfits.com, Password: set
+[10-Aug-2025 02:31:40 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/config/../libs/phpmailer/src/
+[10-Aug-2025 02:31:40 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[10-Aug-2025 02:31:40 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[10-Aug-2025 02:31:40 UTC] PHPMailer not found in any of the checked paths
+[10-Aug-2025 02:31:40 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/config/../libs/phpmailer/src/
+[10-Aug-2025 02:31:40 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[10-Aug-2025 02:31:40 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[10-Aug-2025 02:31:40 UTC] PHPMailer not found in any of the checked paths
+[10-Aug-2025 02:31:40 UTC] Can use SMTP: NO (Config: YES, PHPMailer: NO)
+[10-Aug-2025 02:31:40 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/config/../libs/phpmailer/src/
+[10-Aug-2025 02:31:40 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[10-Aug-2025 02:31:40 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[10-Aug-2025 02:31:40 UTC] PHPMailer not found in any of the checked paths
+[10-Aug-2025 02:31:40 UTC] SMTP configured but PHPMailer not available, using hosting server mail()
+[10-Aug-2025 02:31:40 UTC] Sending email via hosting server mail() function to: expenses@pphotel.co.uk
+[10-Aug-2025 02:31:40 UTC] Email sent successfully via hosting server to: expenses@pphotel.co.uk
+[10-Aug-2025 02:31:40 UTC] Attempting to send email to: expenses3@pphotel.co.uk with subject: New Comment Added: Quality Assurance
+[10-Aug-2025 02:31:40 UTC] SMTP Configuration check - Host: smtp.hostinger.com, Username: info@leopardoutfits.com, Password: set
+[10-Aug-2025 02:31:40 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/config/../libs/phpmailer/src/
+[10-Aug-2025 02:31:40 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[10-Aug-2025 02:31:40 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[10-Aug-2025 02:31:40 UTC] PHPMailer not found in any of the checked paths
+[10-Aug-2025 02:31:40 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/config/../libs/phpmailer/src/
+[10-Aug-2025 02:31:40 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[10-Aug-2025 02:31:40 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[10-Aug-2025 02:31:40 UTC] PHPMailer not found in any of the checked paths
+[10-Aug-2025 02:31:40 UTC] Can use SMTP: NO (Config: YES, PHPMailer: NO)
+[10-Aug-2025 02:31:40 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/config/../libs/phpmailer/src/
+[10-Aug-2025 02:31:40 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[10-Aug-2025 02:31:40 UTC] Checking PHPMailer path: /home/pphotelc/projects.pphotel.co.uk/libs/phpmailer/src/
+[10-Aug-2025 02:31:40 UTC] PHPMailer not found in any of the checked paths
+[10-Aug-2025 02:31:40 UTC] SMTP configured but PHPMailer not available, using hosting server mail()
+[10-Aug-2025 02:31:40 UTC] Sending email via hosting server mail() function to: expenses3@pphotel.co.uk
+[10-Aug-2025 02:31:40 UTC] Email sent successfully via hosting server to: expenses3@pphotel.co.uk
+[10-Aug-2025 02:31:40 UTC] Notification email 'comment_added': 2/2 emails sent successfully
